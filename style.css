@@ -224,6 +224,10 @@ background-color: #42129c;
     color: #020202;
 }
 
+.contactus img{
+    padding: 50px;
+}
+
 .contactus{
     width: 400px;
     position: absolute
