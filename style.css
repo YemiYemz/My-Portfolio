@@ -1,20 +1,3 @@
-/* General CSS rules for every viewport, including large desktop screens */
-body{ }
-.title{ }
-.button{ }
-
-@media (max-width: 1199px) {
-  /* Rules for laptops, small desktop screens, and smaller viewports */
-}
-
-@media (max-width: 991px) {
-  /* Rules for tablets and smaller viewports */
-}
-
-@media (max-width: 767px) {
-  /* Rules for smartphones only */
-}
-
 *{
     margin: 0;
     padding: 0;
